@@ -5,3 +5,9 @@
 ethers 
 dotenv
 jsbi@3.2.5
+
+/Tether
+  const name2 = 'USDT'
+  const symbol2 = 'USDT'
+  const decimals2 = 6
+  const address2 = '0x183f3d42f1f78498f16bc6de7f5a6328fe39f25c'

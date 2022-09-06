@@ -13,8 +13,11 @@
     "@uniswap/sdk": "^3.0.3",
     "@uniswap/sdk-core": "^3.0.2",
     "@uniswap/smart-order-router": "^2.9.3",
+    "axios": "^0.27.2",
     "dotenv": "^16.0.2",
     "ethers": "^5.7.0",
-    "jsbi": "^3.2.5"
+    "fetch": "^1.1.0",
+    "jsbi": "^3.2.5",
+    "qs": "^6.11.0"
   }
 }
