@@ -1,0 +1,7 @@
+
+@uniswap/smart-order-router
+@uniswap/sdk-core
+@uniswap/sdk
+ethers 
+dotenv
+jsbi@3.2.5
